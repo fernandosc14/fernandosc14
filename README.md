@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Python, Java**
 
-- 📄 Know about my experiences in my <a href="https://drive.google.com/file/d/1kcyrZUSpEyu5UceMqhNcNQN4RhlSwlay/view?usp=sharing">**CV**</a>
+- 📄 <a href="https://drive.google.com/file/d/1kcyrZUSpEyu5UceMqhNcNQN4RhlSwlay/view?usp=sharing"> Know about my experiences </a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
