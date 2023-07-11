@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Python, Java**
 
-- 👨‍💻 All my projects are available in my <a href="https://fernando-casas.eu" target="_blank">portfolio </a>
+- 👨‍💻 All my projects are available in my <a href="https://fernando-casas.eu" target="_blank" >portfolio </a>
 
 - 📄 <a href="https://drive.google.com/file/d/1kcyrZUSpEyu5UceMqhNcNQN4RhlSwlay/view?usp=sharing"> Know about my experiences </a>
 
