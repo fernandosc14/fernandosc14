@@ -7,7 +7,7 @@
 
 - 👨‍💻 All my projects are available in my <a href="https://fernando-casas.eu" target="_blank" >portfolio </a>
 
-- 📄 <a href="https://drive.google.com/file/d/1269042d7DbiT8coi7hEI-NMJD2fkX6ha/view?usp=sharing"> Know about my experiences </a>
+- 📄 <a href="[https://drive.google.com/file/d/1269042d7DbiT8coi7hEI-NMJD2fkX6ha/view?usp=sharing](https://drive.google.com/file/d/11w9jqwLfBln2kJkpFq1Oqx5nAzI43i_X/view?usp=sharing)"> Know about my experiences </a>
 
 - 📫 How to reach me **fscasas05@gmail.com**
 <h3 align="left">Connect with me:</h3>
