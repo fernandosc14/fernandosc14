@@ -1,7 +1,7 @@
 <h1 align="center">Hello World 👋, I'm Fernando Casas</h1>
 <h3 align="center">A growing developer from Portugal</h3>
 
-- 🔭 I’m currently working on **Fitness - Android APP**
+- 🔭 I’m currently working on **Personal Finance Software**
 
 - 🌱 I’m currently learning **Python, Java**
 
