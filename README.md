@@ -1,11 +1,7 @@
 <h1 align="center">Hello World 👋, I'm Fernando Casas</h1>
 <h3 align="center">A growing developer from Portugal</h3>
 
-- 🔭 I’m currently working on **Personal Finance Software**
-
-- 🌱 I’m currently learning **Python, Java**
-
-- 👨‍💻 All my projects are available in my <a href="https://fernando-casas.eu" target="_blank" >portfolio </a>
+- 🌱 I’m currently learning **Python**
 
 - 📄 <a href="https://drive.google.com/file/d/11w9jqwLfBln2kJkpFq1Oqx5nAzI43i_X/view?usp=sharing"> Know about my experiences </a>
 
