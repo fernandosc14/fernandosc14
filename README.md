@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Python**
 
-- 📄 <a href="https://drive.google.com/file/d/1BcZxM27SA8h_dKy-RIS6EoIcnUs71qot/view?usp=sharing"> Know about my experiences </a>
+- 📄 <a href="https://drive.google.com/file/d/1BcZxM27SA8h_dKy-RIS6EoIcnUs71qot/view?usp=sharing" target="_blank"> Know about my experiences </a>
 
 - 📫 How to reach me **fscasas05@gmail.com**
 <h3 align="left">Connect with me:</h3>
