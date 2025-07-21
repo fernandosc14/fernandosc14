@@ -1,7 +1,7 @@
 <h1 align="center">Hello World 👋, I'm Fernando Casas</h1>
 <h3 align="center">A growing developer from Portugal</h3>
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **Python** & **React**
 
 - 📄 <a href="https://drive.google.com/file/d/1BcZxM27SA8h_dKy-RIS6EoIcnUs71qot/view?usp=sharing"> Know about my experiences </a>
 
