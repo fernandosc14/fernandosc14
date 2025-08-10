@@ -1,7 +1,7 @@
 <h1 align="center">Hello World 👋, I'm Fernando Casas</h1>
 <h3 align="center">A growing developer from Portugal</h3>
 
-- 🌱 I’m currently learning **Python** & **React**
+- 🌱 I’m currently learning **Python**, **React**, and **Next.js**
 
 - 💻 I’m currently working on a **Football Betting Prediction** project — using historical match data and Machine Learning to predict match results, goal counts, and more.
 
