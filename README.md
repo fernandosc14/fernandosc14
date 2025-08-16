@@ -38,6 +38,7 @@
 
 ### 📊 Stats
 <p align="left">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=fernandosc14&show_icons=true&theme=tokyonight" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandosc14&layout=compact&theme=tokyonight" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=fernandosc14&theme=tokyonight&show_icons=true&hide_border=false&count_private=true" />
+  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=fernandosc14&theme=tokyonight&hide_border=false" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandosc14&theme=tokyonight&show_icons=true&hide_border=false&layout=compact" />
 </p>
