@@ -38,7 +38,7 @@
 
 ### 📊 Stats
 <p align="left">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=fernandosc14&theme=react&show_icons=true&hide_border=true&count_private=true&cache_seconds=1800" /> 
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=fernandosc14&theme=react&show_icons=true&hide_border=true&count_private=true&cache_seconds=2000" /> 
   <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=fernandosc14&theme=react&hide_border=true" />
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandosc14&theme=react&show_icons=true&hide_border=true&layout=compact&cache_seconds=1800" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandosc14&theme=react&show_icons=true&hide_border=true&layout=compact&cache_seconds=2000" />
 </p>
