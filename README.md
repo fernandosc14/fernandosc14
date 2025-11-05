@@ -4,8 +4,8 @@
 ---
 
 ### 🌱 About Me
-- 🌱 I’m currently learning **Python**, **React**, and **Next.js**  
-- 💻 I’m currently developing a **Football Betting Prediction** project — using historical match data and Machine Learning to predict match results, goal counts, and more ⚽📊  
+- 🌱 I’m currently learning **React**, and **Next.js**  
+- 💻 I’m currently developing an Intelligent Nutrition App 🍎🤖 
 - 📄 [Know about my experiences](https://drive.google.com/file/d/1xafYz4bpPNzF52yHkonMy592a4fr9BeE/view?usp=sharing)  
 - 📫 How to reach me: [**fscasas05@gmail.com**](mailto:fscasas05@gmail.com)  
 
